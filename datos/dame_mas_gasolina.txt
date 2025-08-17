@@ -1,0 +1,13 @@
+tipo:ACPM:19900:30000.0
+tipo:ExtraVagante:22500:19997.777777777777
+tipo:CorrientAzo:15400:39996.0
+tipo:CoolDiesel:12000:10000.0
+surtidor:Johnny:ACPM:0.0:ExtraVagante:0.0:CorrientAzo:0.0:CoolDiesel:0.0
+surtidor:Ambarchita:ACPM:0.0:ExtraVagante:0.0:CorrientAzo:4.0:CoolDiesel:0.0
+surtidor:Chipi:ACPM:0.0:ExtraVagante:2.2222222222222223:CorrientAzo:0.0:CoolDiesel:0.0
+surtidor:Chipi:ACPM:0.0:ExtraVagante:0.0:CorrientAzo:0.0:CoolDiesel:0.0
+empleado:Bob:0
+empleado:Johnny:0
+empleado:Jacobito:0
+empleado:Chipi:50000
+empleado:Ambarchita:61600
